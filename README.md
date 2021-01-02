@@ -13,4 +13,4 @@ This is a Pacman clone, developed with the [Unity 2D](https://unity.com/) game e
 
 ## Screenshots
 
-![Photo1](Docs/images/img1.jpeg)
+![Photo1](Docs/images/img1.jpg)
