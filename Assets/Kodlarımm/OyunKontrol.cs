@@ -37,7 +37,7 @@ public class OyunKontrol : MonoBehaviour
         yield return new WaitForSeconds(baslangıcbekleme);
         while (true)
         {
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 4; i++)
 
             {
                 Vector3 vec = new Vector3(Random.Range(-randomPos.x, randomPos.x), 0, randomPos.z);

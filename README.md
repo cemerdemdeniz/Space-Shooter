@@ -1,6 +1,6 @@
 # Space-Shooter
 
-This is a Pacman clone, developed with the [Unity 2D](https://unity.com/) game engine. I've developed the project to improve my coding skills.
+This is a Space-Shooter, developed with the [Unity 2D](https://unity.com/) game engine. I've developed the project to improve my coding skills.
 
 #
 
@@ -14,3 +14,4 @@ This is a Pacman clone, developed with the [Unity 2D](https://unity.com/) game e
 ## Screenshots
 
 ![Photo1](Docs/images/img1.jpg)
+![Gif1](Docs/images/spacegif1.gif)
